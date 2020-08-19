@@ -2,7 +2,7 @@ package com.github.tictactoe;
 
 import java.io.IOException;
 
-public class DummyPlayer extends Player{
+public class DummyPlayer extends Player {
 
     public DummyPlayer(String placeHolder, char symbol) throws IOException {
         super(placeHolder, symbol);

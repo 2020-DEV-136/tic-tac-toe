@@ -1,6 +1,9 @@
 package com.github.tictactoe;
 
-import org.junit.jupiter.api.Test;
+import com.github.tictactoe.BOARDRESULT;
+import com.github.tictactoe.Board;
+import com.github.tictactoe.Cell;
+import org.junit.Test;
 
 import java.util.Arrays;
 import java.util.List;

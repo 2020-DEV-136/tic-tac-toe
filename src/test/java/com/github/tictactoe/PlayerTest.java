@@ -1,8 +1,10 @@
 package com.github.tictactoe;
 
-import org.junit.jupiter.api.Test;
-import static junit.framework.Assert.assertEquals;
+import org.junit.Test;
+
 import java.io.IOException;
+
+import static junit.framework.Assert.assertEquals;
 
 public class PlayerTest {
 
